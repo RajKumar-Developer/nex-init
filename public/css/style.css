@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #000000;
+}
+div {
+  background: transparent;
+  backdrop-filter: blur(10px);
+  height: 200px;
+  width: 200px;
+  border: 1px solid gray;
+  border-radius: 8px;
+}
