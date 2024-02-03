@@ -1,5 +1,5 @@
 {
-  "name": "nex-init",
+  "name": "backend-template",
   "version": "1.0.0",
   "description": "This makes backend work little bit easy",
   "main": "app.js",
