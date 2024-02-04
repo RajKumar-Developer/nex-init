@@ -41,7 +41,6 @@
   "files": [
     "app.js",
     "routes/",
-    "bin/cli.js",
     "public/",
     "views/",
     "config/",
