@@ -1,3 +1,8 @@
+//this file will create reqLog.log file and store all the events in it
+//this file will also log all the events to the console for debugging purposes
+//this file will also create a unique id for each event and store it in the log file
+//more helpful for debugging purposes
+
 const {format} = require('date-fns');
 const {v4:uuid} = require('uuid');
 const fs = require('fs');
